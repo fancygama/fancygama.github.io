@@ -16,42 +16,42 @@ mlb:
 
   - title: "AL East"
     children:
-      - title: "Atlanta Braves"
-        url: /mlb/ATL
-      - title: "Miami Marlins"
-        url: /mlb/MIA
-      - title: "New York Mets"
-        url: /mlb/NYM
-      - title: "Philadelphia Phillies"
-        url: /mlb/PHI
-      - title: "Washington Nationals"
-        url: /mlb/WSN
+      - title: "Baltimore Orioles"
+        url: /mlb/BAL
+      - title: "Boston Red Sox"
+        url: /mlb/BOS
+      - title: "New York Yankees"
+        url: /mlb/NYY
+      - title: "Tampa Bay Rays"
+        url: /mlb/TBR
+      - title: "Toronto Blue Jays"
+        url: /mlb/TOR
 
   - title: "AL Central"
     children:
-      - title: "Atlanta Braves"
-        url: /mlb/ATL
-      - title: "Miami Marlins"
-        url: /mlb/MIA
-      - title: "New York Mets"
-        url: /mlb/NYM
-      - title: "Philadelphia Phillies"
-        url: /mlb/PHI
-      - title: "Washington Nationals"
-        url: /mlb/WSN
+      - title: "Chicago White Sox"
+        url: /mlb/CHW
+      - title: "Cleveland Indians"
+        url: /mlb/CLE
+      - title: "Detroit Tigers"
+        url: /mlb/DET
+      - title: "Kansas City Royals"
+        url: /mlb/KCR
+      - title: "Minnesota Twins"
+        url: /mlb/MIN
 
   - title: "AL West"
     children:
-      - title: "Atlanta Braves"
-        url: /mlb/ATL
-      - title: "Miami Marlins"
-        url: /mlb/MIA
-      - title: "New York Mets"
-        url: /mlb/NYM
-      - title: "Philadelphia Phillies"
-        url: /mlb/PHI
-      - title: "Washington Nationals"
-        url: /mlb/WSN
+      - title: "Houston Astros"
+        url: /mlb/HOU
+      - title: "Los Angeles Angels"
+        url: /mlb/LAA
+      - title: "Oakland Athletics"
+        url: /mlb/OAK
+      - title: "Seattle Mariners"
+        url: /mlb/SEA
+      - title: "Texas Rangers"
+        url: /mlb/TEX
 
   - title: "NL East"
     children:
