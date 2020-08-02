@@ -293,7 +293,8 @@ defaults:
       path: ""
       type: mlb
     values:
-      layout: single
+      layout: collection
+      classes: wide
       sidebar:
         nav: "mlb"
       author_profile: false
