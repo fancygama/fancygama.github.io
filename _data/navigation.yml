@@ -17,77 +17,77 @@ mlb:
   - title: "AL East"
     children:
       - title: "Atlanta Braves"
-        url: /mlb/atl
+        url: /mlb/ATL
       - title: "Miami Marlins"
-        url: /mlb/mia
+        url: /mlb/MIA
       - title: "New York Mets"
-        url: /mlb/nym
+        url: /mlb/NYM
       - title: "Philadelphia Phillies"
-        url: /mlb/phi
+        url: /mlb/PHI
       - title: "Washington Nationals"
-        url: /mlb/wsn
+        url: /mlb/WSN
 
   - title: "AL Central"
     children:
       - title: "Atlanta Braves"
-        url: /mlb/atl
+        url: /mlb/ATL
       - title: "Miami Marlins"
-        url: /mlb/mia
+        url: /mlb/MIA
       - title: "New York Mets"
-        url: /mlb/nym
+        url: /mlb/NYM
       - title: "Philadelphia Phillies"
-        url: /mlb/phi
+        url: /mlb/PHI
       - title: "Washington Nationals"
-        url: /mlb/wsn
+        url: /mlb/WSN
 
   - title: "AL West"
     children:
       - title: "Atlanta Braves"
-        url: /mlb/atl
+        url: /mlb/ATL
       - title: "Miami Marlins"
-        url: /mlb/mia
+        url: /mlb/MIA
       - title: "New York Mets"
-        url: /mlb/nym
+        url: /mlb/NYM
       - title: "Philadelphia Phillies"
-        url: /mlb/phi
+        url: /mlb/PHI
       - title: "Washington Nationals"
-        url: /mlb/wsn
+        url: /mlb/WSN
 
   - title: "NL East"
     children:
       - title: "Atlanta Braves"
-        url: /mlb/atl
+        url: /mlb/ATL
       - title: "Miami Marlins"
-        url: /mlb/mia
+        url: /mlb/MIA
       - title: "New York Mets"
-        url: /mlb/nym
+        url: /mlb/NYM
       - title: "Philadelphia Phillies"
-        url: /mlb/phi
+        url: /mlb/PHI
       - title: "Washington Nationals"
-        url: /mlb/wsn
+        url: /mlb/WSN
 
   - title: "NL Central"
     children:
       - title: "Chicago Cubs"
-        url: /mlb/chc
+        url: /mlb/CHC
       - title: "Cincinnati Reds"
-        url: /mlb/cin
+        url: /mlb/CIN
       - title: "Milwaukee Brewers"
-        url: /mlb/mil
+        url: /mlb/MIL
       - title: "Pittsburgh Pirates"
-        url: /mlb/pit
+        url: /mlb/PIT
       - title: "St. Louis Cardinals"
-        url: /mlb/stl
+        url: /mlb/STL
 
   - title: "NL West"
     children:
       - title: "Arizona Diamondbacks"
-        url: /mlb/ari
+        url: /mlb/ARI
       - title: "Colorado Rockies"
-        url: /mlb/col
+        url: /mlb/COL
       - title: "Los Angeles Dodgers"
-        url: /mlb/lad
+        url: /mlb/LAD
       - title: "San Diego Padres"
-        url: /mlb/sdp
+        url: /mlb/SDP
       - title: "San Francisco Giants"
-        url: /mlb/sfg
+        url: /mlb/SFG
