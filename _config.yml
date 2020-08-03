@@ -300,7 +300,7 @@ defaults:
       sidebar:
         nav: "mlb"
       author_profile: false
-      share: true
+      share: false
 
 random_redirect:
   collections: True

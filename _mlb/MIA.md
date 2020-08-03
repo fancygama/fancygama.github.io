@@ -2,4 +2,5 @@
 title: "Miami Marlins"
 ---
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://fancygama.github.io/ss_plots/MIA.html" height="525" width="100%"></iframe>
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="/plots/MIA.html" height="640" width="100%"></iframe>
