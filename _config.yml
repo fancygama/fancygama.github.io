@@ -288,6 +288,18 @@ collections:
     output: true
     permalink: /:collection/:path/
     show_excerpts: false
+  nfl:
+    output: true
+    permalink: /:collection/:path/
+    show_excerpts: false
+  nba:
+    output: true
+    permalink: /:collection/:path/
+    show_excerpts: false
+  nhl:
+    output: true
+    permalink: /:collection/:path/
+    show_excerpts: false
 
 defaults:
   # _mlb
@@ -301,7 +313,3 @@ defaults:
         nav: "mlb"
       author_profile: false
       share: false
-
-random_redirect:
-  collections: True
-  mlb: True

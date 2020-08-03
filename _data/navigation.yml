@@ -2,7 +2,13 @@
 main:
   - title: "MLB"
     url: /mlb/
-  - title: "About"
+  - title: "NFL"
+    url: /nfl/
+  - title: "NBA"
+    url: /nba/
+  - title: "NHL"
+    url: /nhl/
+  - title: "How This Works"
     url: /about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
@@ -12,6 +18,7 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
 mlb:
   - title: "MLB"
     url: /mlb/
@@ -93,3 +100,15 @@ mlb:
         url: /mlb/SDP
       - title: "San Francisco Giants"
         url: /mlb/SFG
+
+nba:
+  - title: "NBA"
+    url: /nba/
+
+nfl:
+  - title: "NFL"
+    url: /nfl/
+
+nhl:
+  - title: "NHL"
+    url: /nhl/
