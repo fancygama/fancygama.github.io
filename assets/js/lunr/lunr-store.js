@@ -38,12 +38,11 @@ var store = [
               replace:"</h4>", " " |
               replace:"</h5>", " " |
               replace:"</h6>", " "|
-            strip_html | strip_newlines | truncatewords: 50 | jsonify }},
+            strip_html | strip_newlines | truncatewords: 4 | jsonify }},
           {%- endif -%}
         "categories": {{ doc.categories | jsonify }},
         "tags": {{ doc.tags | jsonify }},
-        "url": {{ doc.url | absolute_url | jsonify }},
-        "teaser": {{ teaser | absolute_url | jsonify }}
+        "url": {{ doc.url | absolute_url | jsonify }}
       }{%- unless forloop.last and l -%},{%- endunless -%}
     {%- endfor -%}
   {%- endfor -%}]

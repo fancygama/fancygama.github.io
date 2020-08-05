@@ -187,6 +187,94 @@ nfl:
   - title: "NFL"
     url: /nfl/
 
+  - title: "AFC East"
+    children:
+      - title: "Buffalo Bills"
+        url: /nfl/BUF
+      - title: "Miami Dolphins"
+        url: /nfl/MIA
+      - title: "New England Patriots"
+        url: /nfl/NWE
+      - title: "New York Jets"
+        url: /nfl/NYJ
+
+  - title: "AFC North"
+    children:
+      - title: "Baltimore Ravens"
+        url: /nfl/RAV
+      - title: "Cincinnati Bengals"
+        url: /nfl/CIN
+      - title: "Cleveland Browns"
+        url: /nfl/CLE
+      - title: "Pittsburgh Steelers"
+        url: /nfl/PIT
+
+  - title: "AFC South"
+    children:
+      - title: "Houston Texans"
+        url: /nfl/HTX
+      - title: "Indianapolis Colts"
+        url: /nfl/CLT
+      - title: "Jacksonville Jaguars"
+        url: /nfl/JAX
+      - title: "Tennessee Titans"
+        url: /nfl/OTI
+
+  - title: "AFC West"
+    children:
+      - title: "Denver Broncos"
+        url: /nfl/DEN
+      - title: "Kansas City Chiefs"
+        url: /nfl/KAN
+      - title: "Las Vegas Raiders"
+        url: /nfl/RAI
+      - title: "Los Angeles Chargers"
+        url: /nfl/SDG
+
+  - title: "NFC East"
+    children:
+      - title: "Dallas Cowboys"
+        url: /nfl/DAL
+      - title: "New York Giants"
+        url: /nfl/NYG
+      - title: "Philadelphia Eagles"
+        url: /nfl/PHI
+      - title: "Washington Football Team"
+        url: /nfl/WAS
+
+  - title: "NFC North"
+    children:
+      - title: "Chicago Bears"
+        url: /nfl/CHI
+      - title: "Detroit Lions"
+        url: /nfl/DET
+      - title: "Green Bay Packers"
+        url: /nfl/GNB
+      - title: "Minnesota Vikings"
+        url: /nfl/MIN
+
+  - title: "NFC South"
+    children:
+      - title: "Atlanta Falcons"
+        url: /nfl/ATL
+      - title: "Carolina Panthers"
+        url: /nfl/CAR
+      - title: "New Orleans Saints"
+        url: /nfl/NOR
+      - title: "Tampa Bay Buccaneers"
+        url: /nfl/TAM
+
+  - title: "NFC West"
+    children:
+      - title: "Arizona Cardinals"
+        url: /nfl/CRD
+      - title: "Los Angeles Rams"
+        url: /nfl/RAM
+      - title: "San Francisco 49ers"
+        url: /nfl/SFO
+      - title: "Seattle Seahawks"
+        url: /nfl/SEA
+
 nhl:
   - title: "NHL"
     url: /nhl/
