@@ -105,6 +105,84 @@ nba:
   - title: "NBA"
     url: /nba/
 
+  - title: "Atlantic"
+    children:
+      - title: "Boston Celtics"
+        url: /nba/BOS
+      - title: "Brooklyn Nets"
+        url: /nba/BRK
+      - title: "New York Knicks"
+        url: /nba/NYK
+      - title: "Philadelphia 76ers"
+        url: /nba/PHI
+      - title: "Toronto Raptors"
+        url: /nba/TOR
+
+  - title: "Central"
+    children:
+      - title: "Chicago Bulls"
+        url: /nba/CHI
+      - title: "Cleveland Cavaliers"
+        url: /nba/CLE
+      - title: "Detroit Pistons"
+        url: /nba/DET
+      - title: "Indiana Pacers"
+        url: /nba/IND
+      - title: "Milwaukee Bucks"
+        url: /nba/MIL
+
+  - title: "Southeast"
+    children:
+      - title: "Atlanta Hawks"
+        url: /nba/ATL
+      - title: "Charlotte Hornets"
+        url: /nba/CHO
+      - title: "Miami Heat"
+        url: /nba/MIA
+      - title: "Orlando Magic"
+        url: /nba/ORL
+      - title: "Washington Wizards"
+        url: /nba/WAS
+
+  - title: "Northwest"
+    children:
+      - title: "Denver Nuggets"
+        url: /nba/DEN
+      - title: "Minnesota Timberwolves"
+        url: /nba/MIN
+      - title: "Oklahoma City Thunder"
+        url: /nba/OKC
+      - title: "Portland Trail Blazers"
+        url: /nba/POR
+      - title: "Utah Jazz"
+        url: /nba/UTA
+
+  - title: "Pacific"
+    children:
+      - title: "Golden State Warriors"
+        url: /nba/GSW
+      - title: "Los Angeles Clippers"
+        url: /nba/LAC
+      - title: "Los Angeles Lakers"
+        url: /nba/LAL
+      - title: "Phoenix Suns"
+        url: /nba/PHO
+      - title: "Sacramento Kings"
+        url: /nba/SAC
+
+  - title: "Southwest"
+    children:
+      - title: "Dallas Mavericks"
+        url: /nba/DAL
+      - title: "Houston Rockets"
+        url: /nba/HOU
+      - title: "Memphis Grizzlies"
+        url: /nba/MEM
+      - title: "New Orleans Pelicans"
+        url: /nba/NOP
+      - title: "San Antonio Spurs"
+        url: /nba/SAS
+
 nfl:
   - title: "NFL"
     url: /nfl/

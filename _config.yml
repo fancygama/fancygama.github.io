@@ -313,3 +313,13 @@ defaults:
         nav: "mlb"
       author_profile: false
       share: false
+  - scope:
+      path: ""
+      type: nba
+    values:
+      layout: single
+      classes: wide
+      sidebar:
+        nav: "nba"
+      author_profile: false
+      share: false

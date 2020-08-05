@@ -1,6 +1,5 @@
 ---
-title: "Washington Nationals"
+title: Washington Nationals
 ---
 
-
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="/plots/WSN.html" height="640" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="/plots/MLB/WSN.html" height="640" width="100%"></iframe>
