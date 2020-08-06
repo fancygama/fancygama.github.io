@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Trevor Whitestone"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "*En-dash extraordinaire*"
+  bio              : "Data Scientist"
   location         : "Washington, D.C."
   email            :
   links:
@@ -333,3 +333,21 @@ defaults:
         nav: "nfl"
       author_profile: false
       share: false
+  - scope:
+      path: ""
+      type: nhl
+    values:
+      layout: single
+      classes: wide
+      sidebar:
+        nav: "nhl"
+      author_profile: false
+      share: false
+
+plugins:
+  - jekyll-last-modified-at
+  - jekyll-include-cache
+
+# Optional. The default date format, used if none is specified in the tag.
+last-modified-at:
+  date-format: '%-m-%-d-%Y, %-I:%M %p'

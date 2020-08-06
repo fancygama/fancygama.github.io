@@ -1,10 +1,9 @@
 ---
 excerpt: ''
 header:
-  teaser: https://i.imgur.com/FERdCbo.png
+  teaser: https://i.imgur.com/FERdCbol.png
 title: Indianapolis Colts
 ---
 
 Comments extracted from [r/colts](https://reddit.com/r/colts)
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="/plots/NFL/CLT.html" height="640" width="100%"></iframe>
-<small>Site Last Updated: 8-5-2020, 3:48 PM</small>

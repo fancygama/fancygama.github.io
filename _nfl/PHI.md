@@ -1,10 +1,9 @@
 ---
 excerpt: ''
 header:
-  teaser: https://i.imgur.com/OSDOJhM.png
+  teaser: https://i.imgur.com/OSDOJhMl.png
 title: Philadelphia Eagles
 ---
 
 Comments extracted from [r/eagles](https://reddit.com/r/eagles)
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="/plots/NFL/PHI.html" height="640" width="100%"></iframe>
-<small>Site Last Updated: 8-5-2020, 3:48 PM</small>

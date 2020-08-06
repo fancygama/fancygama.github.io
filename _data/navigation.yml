@@ -278,3 +278,77 @@ nfl:
 nhl:
   - title: "NHL"
     url: /nhl/
+
+  - title: "Atlantic"
+    children:
+      - title: "Boston Bruins"
+        url: /nhl/BOS
+      - title: "Buffalo Sabres"
+        url: /nhl/BUF
+      - title: "Detroit Red Wings"
+        url: /nhl/DET
+      - title: "Florida Panthers"
+        url: /nhl/FLA
+      - title: "Montreal Canadiens"
+        url: /nhl/MTL
+      - title: "Ottawa Senators"
+        url: /nhl/OTT
+      - title: "Tampa Bay Lightning"
+        url: /nhl/TBL
+      - title: "Toronto Maple Leafs"
+        url: /nhl/TOR
+
+  - title: "Metropolitan"
+    children:
+      - title: "Carolina Hurricanes"
+        url: /nhl/CAR
+      - title: "Columbus Blue Jackets"
+        url: /nhl/CBJ
+      - title: "New Jersey Devils"
+        url: /nhl/NJD
+      - title: "New York Islanders"
+        url: /nhl/NYI
+      - title: "New York Rangers"
+        url: /nhl/NYR
+      - title: "Philadelphia Flyers"
+        url: /nhl/PHI
+      - title: "Pittsburgh Penguins"
+        url: /nhl/PIT
+      - title: "Washington Capitals"
+        url: /nhl/WSH
+
+  - title: "Central"
+    children:
+      - title: "Chicago Blackhawks"
+        url: /nhl/CHI
+      - title: "Colorado Avalanche"
+        url: /nhl/COL
+      - title: "Dallas Stars"
+        url: /nhl/DAL
+      - title: "Minnesota Wild"
+        url: /nhl/MIN
+      - title: "Nashville Predators"
+        url: /nhl/NSH
+      - title: "St. Louis Blues"
+        url: /nhl/STL
+      - title: "Winnipeg Jets"
+        url: /nhl/WPG
+
+  - title: "Pacific"
+    children:
+      - title: "Anaheim Ducks"
+        url: /nhl/ANA
+      - title: "Arizona Coyotes"
+        url: /nhl/ARI
+      - title: "Calgary Flames"
+        url: /nhl/CGY
+      - title: "Edmonton Oilers"
+        url: /nhl/EDM
+      - title: "Los Angeles Kings"
+        url: /nhl/LAK
+      - title: "San Jose Sharks"
+        url: /nhl/SJS
+      - title: "Vancouver Canucks"
+        url: /nhl/VAN
+      - title: "Vegas Golden Knights"
+        url: /nhl/VEG

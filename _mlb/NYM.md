@@ -1,10 +1,9 @@
 ---
 excerpt: ''
 header:
-  teaser: https://i.imgur.com/gINjomN.png
+  teaser: https://i.imgur.com/gINjomNl.png
 title: New York Mets
 ---
 
 Comments extracted from [r/NewYorkMets](https://reddit.com/r/NewYorkMets)
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="/plots/MLB/NYM.html" height="640" width="100%"></iframe>
-<small>Site Last Updated: 8-5-2020, 3:48 PM</small>
