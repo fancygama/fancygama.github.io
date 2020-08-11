@@ -8,7 +8,7 @@ toc: true
 
 ## Overview
 
-Sports Sentiment attempts to measure the degree of positivity or negativity expressed in sports conversations, more specifically in comments from leagues&#39; and individual teams&#39; subreddits (forums) on Reddit. The model that takes raw text and outputs a positivity/negativity score was trained and validated to \&gt;80% accuracy on 1.6 million tweets. Sentiment Analysis has been shown to be highly transferable, so training on tweets and predicting on Reddit comments should not see a huge drop in performance, although there is no way to measure this currently. Data has only been collected since July 2020, but early results do show [a strong association between fanbases&#39; sentiment and win-loss results](#model-performance), suggesting the validity of this model and its usefulness as an approximate litmus test for fans&#39; mood.
+Sports Sentiment attempts to measure the degree of positivity or negativity expressed in sports conversations, more specifically in comments from leagues&#39; and individual teams&#39; subreddits (forums) on Reddit. The model that takes raw text and outputs a positivity/negativity score was trained and validated to &gt;80% accuracy on 1.6 million tweets. Sentiment Analysis has been shown to be highly transferable, so training on tweets and predicting on Reddit comments should not see a huge drop in performance, although there is no way to measure this currently. Data has only been collected since July 2020, but early results do show [a strong association between fanbases&#39; sentiment and win-loss results](#model-performance), suggesting the validity of this model and its usefulness as an approximate litmus test for fans&#39; mood.
 
 Solely using Reddit comments may limit the scope of analysis to less casual, more &quot;nerdy&quot; fans, but it has the advantages of:
 
@@ -46,6 +46,8 @@ This model is [explanatory rather than predictive](https://www.theanalysisfactor
 ### What Do Sentiment Scores Mean?
 
 In probability models, the last layer of a model typically contains [a formula](https://deepai.org/machine-learning-glossary-and-terms/sigmoid-function) that constricts values to a range from 0 to 1. In this case, I bypassed this step, allowing outputs for individual comments to range from roughly -4 to +4. When averaged over all comments of a respective subreddit, outputs range from roughly +0.250 to +0.500. I find this range is more intuitive than the corresponding probabilities of 57% and 62% positive; recall that no comment is completely positive or negative, but that the reality is a subjective spectrum. This is similar to the &quot;sentiment strengths&quot; technique from the aforementioned [Short Informal Text](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.278.3863&amp;rep=rep1&amp;type=pdf) paper, although the methodology differs.
+
+{% include figure image_path="/assets/img/dist.png" alt="Graph showing a standard distribution of sentiment scores from -4 to 4." %}
 
 ### How Are the Graph &quot;Averages&quot; Calculated?
 
