@@ -9,7 +9,7 @@ main:
   - title: "NHL"
     url: /nhl/
   - title: "How This Works"
-    url: /about/
+    url: /how-this-works/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

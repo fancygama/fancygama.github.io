@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SportSentiment"
+title                    : "Sports Sentiment"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Trevor Whitestone"
-description              : "An amazing website."
+description              : "Taking the pulse of fanbases."
 url                      : "https://fancygama.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "fancygama/fancygama.github.io"
@@ -107,7 +107,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: https://twitter.com/twhitest1
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
