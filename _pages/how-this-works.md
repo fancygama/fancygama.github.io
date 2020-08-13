@@ -30,8 +30,17 @@ Unlike models for precise tasks such as fraud detection, strong Sentiment Analys
   - Take the sentence, &quot;The Nationals rallied, but Seattle&#39;s dominant bullpen regained its footing to hold on to the win.&quot; Other types of models may infger &quot;Seattle&quot; is referring to the city as a whole, but an RNN is well built to decipher that it&#39;s referring to the Mariners because it stores context supplied by &quot;Nationals&quot; for later use.
   - RNNs are also known as Sequence Models and can be applied to other sequenced data besides strings of text such as audio.
     - <small>This model is a GRU RNN, which stands for Gated Recurrent Unit. This means it&#39;s better equipped to &quot;memorize&quot; information for longer distances within a sentence than basic RNN&#39;s. LSTM&#39;s are another alternative with a similar goal, but they are generally slower to train.</small>
-- RNNs have additional potential in the form of Bidirectional variants, which can use words _later_ in a comment to contextualize words near the beginning by reading backward, on top of the normal forward behavior.
-  - Take the sentence &quot;Teddy lived in Oyster Bay, while Franklin lived in Hyde Park.&quot; The normal, forward model sees that &quot;Franklin&quot; probably means FDR because it remembers also seeing &quot;Teddy&quot;, but it wouldn&#39;t know if &quot;Teddy&quot; was the president or the stuffed animal because it can&#39;t iterate backward once it sees &quot;Franklin&quot;. A Bidirectional model solves this issue.
+- RNNs have additional potential in the form of bidirectional variants, which can use words _later_ in a comment to contextualize words near the beginning by reading backward, on top of the normal forward behavior.
+  - Take the sentence &quot;Teddy lived in Oyster Bay, while Franklin lived in Hyde Park.&quot; The normal, forward model sees that &quot;Franklin&quot; probably means FDR because it remembers also seeing &quot;Teddy&quot;, but it wouldn&#39;t know if &quot;Teddy&quot; was the president or the stuffed animal because it can&#39;t iterate backward once it sees &quot;Franklin&quot;. A bidirectional model solves this issue.
+
+### Model Structure
+The model consists of:
+* 100-dimensional frozen Embedding layer
+* Two bidirectional GRU layers
+* Dense layer with dropout
+* Unactivated output layer
+
+{% include figure image_path="/assets/img/model_structure.png" alt="Structure table of model described above." %}
 
 ### Transfer Learning
 
@@ -46,6 +55,22 @@ This model is [explanatory rather than predictive](https://www.theanalysisfactor
 ### What Do Sentiment Scores Mean?
 
 In probability models, the last layer of a model typically contains [a formula](https://deepai.org/machine-learning-glossary-and-terms/sigmoid-function) that constricts values to a range from 0 to 1. In this case, I bypassed this step, allowing outputs for individual comments to range from roughly -4 to +4. When averaged over all comments of a respective subreddit, outputs range from roughly +0.250 to +0.500. I find this range is more intuitive than the corresponding probabilities of 57% and 62% positive; recall that no comment is completely positive or negative, but that the reality is a subjective spectrum. This is similar to the &quot;sentiment strengths&quot; technique from the aforementioned [Short Informal Text](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.278.3863&amp;rep=rep1&amp;type=pdf) paper, although the methodology differs.
+
+**Examples of Negative Sentiment:**
+* Ouch. :/ feels bad man **(-4.09)**
+* Man pascal is missing 3s BADLY. those aren't good misses **(-3.92)**
+* The NBA and ESPN cannot foul out Giannis. The fix is in. **(-2.40)**
+* we need mcdermott and j holiday to start making some shots it’s been rough the past few games **(-1.34)**
+* True, but it was *especially stupid* for the Marlins to play yesterday. **(-0.80)**
+* I'm chill with a minutes restriction.  But 15 minutes?!? Ridiculous.  I don't even think that's a good idea medically speaking, unless he's on a bike during all his extended breaks. **(-0.45)**
+
+**Examples of Positive Sentiment:**
+* And with Brady at QB they could always add another DB to the field because of the lack of run threat. Now teams are going to have to put another guy in the box or else even a hobbled newton would feast. Should open up the passing game quite a bit **(+0.40)**
+* Don't mind me, just here for the salt. **(+0.76)**
+* That and hearing the guys chirping has been my favorite part **(+1.53)**
+* They streamed that game on YT over the summer and the amount of talent on both sides was incredible **(+2.27)**
+* Very cool name IMO. Highlights the role of Native Americans in winning WW2. **(+3.64)**
+* Thank you! It’s in my Tinder bio now, I’m so proud of it! **(+4.07)**
 
 {% include figure image_path="/assets/img/dist.png" alt="Graph showing a standard distribution of sentiment scores from -4 to 4." %}
 
