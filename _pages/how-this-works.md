@@ -8,7 +8,7 @@ toc: true
 
 ## Overview
 
-Sports Sentiment attempts to measure the degree of positivity or negativity expressed in sports conversations, more specifically in comments from leagues&#39; and individual teams&#39; subreddits (forums) on Reddit. The model that takes raw text and outputs a positivity/negativity score was trained and validated to &gt;80% accuracy on 1.6 million tweets. Sentiment Analysis has been shown to be highly transferable, so training on tweets and predicting on Reddit comments should not see a huge drop in performance, although there is no way to measure this currently. Data has only been collected since July 2020, but early results do show [a strong association between fanbases&#39; sentiment and win-loss results](#model-performance), suggesting the validity of this model and its usefulness as an approximate litmus test for fans&#39; mood.
+Sport Sentiment attempts to measure the degree of positivity or negativity expressed in sports conversations, more specifically in comments from leagues&#39; and individual teams&#39; subreddits (forums) on Reddit. The model that takes raw text and outputs a positivity/negativity score was trained and validated to &gt;80% accuracy on 1.6 million tweets. Sentiment Analysis has been shown to be highly transferable, so training on tweets and predicting on Reddit comments should not see a huge drop in performance, although there is no way to measure this currently. Data has only been collected since July 2020, but early results do show [a strong association between fanbases&#39; sentiment and win-loss results](#model-performance), suggesting the validity of this model and its usefulness as an approximate litmus test for fans&#39; mood.
 
 Solely using Reddit comments may limit the scope of analysis to less casual, more &quot;nerdy&quot; fans, but it has the advantages of:
 
@@ -16,11 +16,11 @@ Solely using Reddit comments may limit the scope of analysis to less casual, mor
 - A free and fast API for collecting data, and a demographic slowly shifting toward that of the larger sports fan population due to the site&#39;s growth
 - Similar rituals across subreddits (pregame/in-game/postgame threads) that make comparing two teams in the same league a worthwhile exercise
 
-To sum up, I hope Sports Sentiment can be a fun diversion, showcasing the strength of machine learning (ML) in understanding internet language, and providing a way to visualize teams&#39; highs and lows over the course of an unusual 2020 season. I encourage you to add to your experience by cross-reference movements in team graphs with news from specific days (e.g. observe the increase in negativity for just about every MLB team when it looked like the season would be cancelled after the Marlins outbreak on July 27). Look out for updates on this page in the future.
+To sum up, I hope Sport Sentiment can be a fun diversion, showcasing the strength of machine learning (ML) in understanding internet language, and providing a way to visualize teams&#39; highs and lows over the course of an unusual 2020 season. I encourage you to add to your experience by cross-reference movements in team graphs with news from specific days (e.g. observe the increase in negativity for just about every MLB team when it looked like the season would be cancelled after the Marlins outbreak on July 27). Look out for updates on this page in the future.
 
 ## How Does the Model Work?
 
-Sports Sentiment uses a neural network to generate scores corresponding roughly to how positive or negative the mood of a comment is. This is an example of a Natural Language Processing technique known as Sentiment Analysis.
+Sport Sentiment uses a neural network to generate scores corresponding roughly to how positive or negative the mood of a comment is. This is an example of a Natural Language Processing technique known as Sentiment Analysis.
 
 Unlike models for precise tasks such as fraud detection, strong Sentiment Analysis models may have an accuracy of just 70-80%, simply because sentiment is **subjective** : even [humans only agree with one another on 80%](https://mashable.com/2010/04/19/sentiment-analysis/) of examples. Various model types can perform Sentiment Analysis with reliable accuracy, ranging from linear regression to ML techniques like Naive Bayes. I used deep learning, in particular a recurrent neural network (RNN), because;
 
