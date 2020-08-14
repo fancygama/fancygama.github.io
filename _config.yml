@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Trevor Whitestone"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/trevor_.jpg"
   bio              : "Data Scientist"
   location         : "Washington, D.C."
   email            : "trevorwhitestone@gmail.com"
@@ -114,9 +114,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/fancygama"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "as fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/trevor-whitestone-159646123/"
 
 # Site Footer
 footer:
