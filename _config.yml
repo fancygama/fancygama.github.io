@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Trevor Whitestone"
 description              : "A Deep Learning Project"
-url                      : "https://fancygama.github.io"
+url                      : "https://sport-sentiment.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "fancygama/fancygama.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
