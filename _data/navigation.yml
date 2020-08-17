@@ -20,7 +20,7 @@ main:
   #   url: /sitemap/
 
 mlb:
-  - title: "MLB"
+  - title: "MLB Home"
     url: /mlb/
 
   - title: "AL East"
@@ -102,7 +102,7 @@ mlb:
         url: /mlb/SFG
 
 nba:
-  - title: "NBA"
+  - title: "NBA Home"
     url: /nba/
 
   - title: "Atlantic"
@@ -184,7 +184,7 @@ nba:
         url: /nba/SAS
 
 nfl:
-  - title: "NFL"
+  - title: "NFL Home"
     url: /nfl/
 
   - title: "AFC East"
@@ -276,7 +276,7 @@ nfl:
         url: /nfl/SEA
 
 nhl:
-  - title: "NHL"
+  - title: "NHL Home"
     url: /nhl/
 
   - title: "Atlantic"

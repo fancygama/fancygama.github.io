@@ -6,7 +6,7 @@ layout: collection
 permalink: /nba/
 sidebar:
   nav: nba
-title: NBA
+title: NBA Home
 ---
 
 <style>

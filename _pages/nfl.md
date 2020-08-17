@@ -6,7 +6,7 @@ layout: collection
 permalink: /nfl/
 sidebar:
   nav: nfl
-title: NFL
+title: NFL Home
 ---
 
 <style>

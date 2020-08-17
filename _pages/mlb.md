@@ -6,7 +6,7 @@ layout: collection
 permalink: /mlb/
 sidebar:
   nav: mlb
-title: MLB
+title: MLB Home
 ---
 
 <style>

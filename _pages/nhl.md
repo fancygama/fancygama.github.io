@@ -6,7 +6,7 @@ layout: collection
 permalink: /nhl/
 sidebar:
   nav: nhl
-title: NHL
+title: NHL Home
 ---
 
 
