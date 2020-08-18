@@ -9,19 +9,7 @@ sidebar:
 title: NBA Home
 ---
 
-<style>
-	th{
-	    border:2px solid #000000;
-	}
-
-	td{
-	    border:1px solid #000000;
-	}
-</style>
-
-<script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
-
-<table class="sortable">
+<table class="sortable" id="teamTable">
   {% for row in site.data.NBA %}
     {% if forloop.first %}
     <tr>
