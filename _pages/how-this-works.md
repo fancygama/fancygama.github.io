@@ -4,6 +4,7 @@ layout: single
 permalink: /how-this-works/
 author_profile: true
 toc: true
+excerpt: Using NLP, Sport Sentiment attempts to measure the degree of positivity or negativity expressed in Reddit sports conversations.
 ---
 
 ## Overview
@@ -96,10 +97,14 @@ In terms of statistical significance, we can reject the null hypothesis that win
 
 While we should expect the model to glean positive sentiment from words &quot;Win&quot; or &quot;Won&quot;, these words alone can&#39;t explain most of the gap in sentiment change in wins vs. losses. Within the MLB dataset, &quot;Win,&quot; &quot;Won,&quot; and similar variations are used in 10.4% of comments post-win. They&#39;re also used in 10.0% of comments _post-loss_. Variations around &quot;Lose&quot; and &quot;Loss&quot; are used in 4.0% of comments post-loss, and 2.6% of comments post-win. Even if the model hyper-focused on these words, it would only account for a roughly 1.8% change in sentiment probability in the positive or negative direction, which corresponds to a sentiment score change of .070. The average observed win-loss delta in the MLB is 0.285, or four times that.
 
+## Updates
+
+- **8/23/20:** Embeddings have been expanded by incorporating OOV (out-of-vocabulary) terms commonly seen in the Reddit sports communities but not included in the original GloVe embeddings. The model has been retrained to 81.3% test accuracy and consequently, sentiment score averages have declined slightly, with more team averages now dipping into the negatives.
+
 ## Known Issues
 
 - Not all subreddit comments in the observed timespan are in the dataset. This is due to the nature of the comment parsing script, as it will mark threads as &quot;read&quot; after a single pass, despite the potential for additional comments on that thread after the parsing. This is done to reduce comment parsing time by upwards of 90%, and data gaps can be mitigated by running the parsing script in the morning, when potentially busy threads are less likely to have just been created. Still, this issue is the cause for some apparent dips in comment activity during games.
-- Playoff games do not currently appear in team graphs due to limitations in the Sports Reference API.
+- NHL game results do not currently appear in team graphs.
 - Doubleheader game times may appear blurred together in graphs, due to an issue with Baseball Reference marking the start times as being 30 minutes apart.
 - Suspended games are marked as if they were completed on graphs.
 
@@ -108,6 +113,7 @@ While we should expect the model to glean positive sentiment from words &quot;Wi
 - [PRAW](https://praw.readthedocs.io/en/latest/)
 - [Sportsreference](https://sportsreference.readthedocs.io/en/stable/index.html)
 - [Tensorflow 2.0](https://www.tensorflow.org/overview)
+- [Mittens](https://github.com/roamanalytics/mittens)
 - [Plotly](https://plotly.com/python/)
 - [Pandas](https://pandas.pydata.org/docs/)
 - [NumPy](https://numpy.org/)
