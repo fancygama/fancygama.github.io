@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Pittsburgh Penguins fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/fxUqABcl.png
 title: Pittsburgh Penguins

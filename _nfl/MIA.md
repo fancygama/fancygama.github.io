@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Miami Dolphins fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/kwFS2hMl.png
 title: Miami Dolphins

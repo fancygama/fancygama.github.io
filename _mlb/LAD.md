@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Los Angeles Dodgers fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/0EA5b0Hl.png
 title: Los Angeles Dodgers

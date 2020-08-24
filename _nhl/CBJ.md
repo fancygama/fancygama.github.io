@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Columbus Blue Jackets fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/Xw8RSJMl.png
 title: Columbus Blue Jackets

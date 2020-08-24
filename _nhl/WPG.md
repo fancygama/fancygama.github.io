@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Winnipeg Jets fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/rPybQU1l.png
 title: Winnipeg Jets

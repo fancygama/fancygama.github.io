@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Nashville Predators fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/JYNLXoYl.png
 title: Nashville Predators

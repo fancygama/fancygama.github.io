@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Portland Trailblazers fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/iqP1IYnl.png
 title: Portland Trailblazers

@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: St. Louis Blues fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/glwntCHl.png
 title: St. Louis Blues

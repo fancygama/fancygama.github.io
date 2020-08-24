@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: St. Louis Cardinals fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/xFiecLfl.png
 title: St. Louis Cardinals

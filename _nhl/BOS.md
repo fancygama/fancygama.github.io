@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Boston Bruins fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/4yYuhenl.png
 title: Boston Bruins

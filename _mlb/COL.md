@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Colorado Rockies fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/XLvi0tfl.png
 title: Colorado Rockies

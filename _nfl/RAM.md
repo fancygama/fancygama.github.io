@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Los Angeles Rams fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/uI6MAQQl.png
 title: Los Angeles Rams

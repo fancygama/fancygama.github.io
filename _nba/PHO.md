@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Phoenix Suns fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/O35dP4vl.png
 title: Phoenix Suns

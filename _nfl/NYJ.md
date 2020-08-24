@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: New York Jets fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/B0oJWRvl.png
 title: New York Jets

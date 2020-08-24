@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Chicago White Sox fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/NkFjwLUl.png
 title: Chicago White Sox

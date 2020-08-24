@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Anaheim Ducks fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/ij3RW5Zl.gif
 title: Anaheim Ducks

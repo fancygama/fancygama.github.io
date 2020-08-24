@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Dallas Cowboys fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/d0MxjL8l.png
 title: Dallas Cowboys

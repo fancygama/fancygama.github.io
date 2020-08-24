@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Minnesota Twins fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/wZIQsWll.png
 title: Minnesota Twins

@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Los Angeles Angels fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/FaI72xFl.png
 title: Los Angeles Angels

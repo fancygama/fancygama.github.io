@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Baltimore Ravens fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/QfPtPiPl.png
 title: Baltimore Ravens

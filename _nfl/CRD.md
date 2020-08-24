@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Arizona Cardinals fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/Edn9YuSl.png
 title: Arizona Cardinals

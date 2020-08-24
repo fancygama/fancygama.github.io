@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Charlotte Hornets fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/D7Hn6uGl.png
 title: Charlotte Hornets

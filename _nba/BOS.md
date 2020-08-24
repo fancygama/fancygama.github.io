@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Boston Celtics fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/2n3krb0l.png
 title: Boston Celtics

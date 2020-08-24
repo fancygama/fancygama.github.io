@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Cincinnati Bengals fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/6uDjCR4l.png
 title: Cincinnati Bengals

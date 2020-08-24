@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Atlanta Falcons fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/9QbuIA2l.png
 title: Atlanta Falcons

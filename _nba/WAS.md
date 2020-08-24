@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Washington Wizards fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/0ODoqIDl.png
 title: Washington Wizards

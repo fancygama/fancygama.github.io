@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Washington Nationals fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/7GIVD8Wl.png
 title: Washington Nationals

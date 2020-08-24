@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Utah Jazz fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/pPo9Myxl.png
 title: Utah Jazz

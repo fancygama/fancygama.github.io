@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: San Francisco Giants fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/KlXMjMfl.png
 title: San Francisco Giants

@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Arizona Coyotes fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/r6wKetnl.png
 title: Arizona Coyotes

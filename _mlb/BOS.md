@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Boston Red Sox fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/0s2fzwql.png
 title: Boston Red Sox

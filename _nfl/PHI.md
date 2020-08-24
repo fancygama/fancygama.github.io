@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Philadelphia Eagles fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/OSDOJhMl.png
 title: Philadelphia Eagles

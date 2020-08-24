@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Green Bay Packers fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/167u5Vsl.png
 title: Green Bay Packers

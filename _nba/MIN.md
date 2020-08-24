@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Minnesota Timberwolves fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/9EebbZGl.png
 title: Minnesota Timberwolves

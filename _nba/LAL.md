@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Los Angeles Lakers fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/i8KJViul.png
 title: Los Angeles Lakers

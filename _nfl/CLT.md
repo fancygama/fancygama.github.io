@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Indianapolis Colts fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/FERdCbol.png
 title: Indianapolis Colts

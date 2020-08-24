@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Cleveland Indians fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/FUM7HG1l.png
 title: Cleveland Indians

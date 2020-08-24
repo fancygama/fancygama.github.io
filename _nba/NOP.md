@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: New Orleans Pelicans fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/fFpya44l.png
 title: New Orleans Pelicans

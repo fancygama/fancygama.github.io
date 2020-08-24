@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Dallas Stars fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/ONgrrrtl.png
 title: Dallas Stars

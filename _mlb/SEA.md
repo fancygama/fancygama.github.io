@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Seattle Mariners fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/MmDDEKal.png
 title: Seattle Mariners

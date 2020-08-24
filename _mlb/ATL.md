@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Atlanta Braves fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/ie9uZCQl.png
 title: Atlanta Braves

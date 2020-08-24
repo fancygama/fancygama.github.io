@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: New Orleans Saints fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/AdyZ9oMl.png
 title: New Orleans Saints

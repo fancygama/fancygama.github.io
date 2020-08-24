@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Pittsburgh Pirates fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/yxh8ofKl.png
 title: Pittsburgh Pirates

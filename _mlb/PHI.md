@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Philadelphia Phillies fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/wncoBkel.png
 title: Philadelphia Phillies

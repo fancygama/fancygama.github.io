@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Indiana Pacers fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/kjlYODbl.png
 title: Indiana Pacers

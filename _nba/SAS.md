@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: San Antonio Spurs fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/RlsvZeKl.png
 title: San Antonio Spurs

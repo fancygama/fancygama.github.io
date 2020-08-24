@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Vancouver Canucks fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/RV7EJWul.png
 title: Vancouver Canucks

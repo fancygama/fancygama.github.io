@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Golden State Warriors fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/tSvr0U8l.png
 title: Golden State Warriors

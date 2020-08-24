@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Denver Nuggets fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/f9Qk1a6l.png
 title: Denver Nuggets

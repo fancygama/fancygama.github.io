@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Atlanta Hawks fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/GO3WlHUl.png
 title: Atlanta Hawks

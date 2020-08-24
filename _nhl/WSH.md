@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Washington Capitals fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/LL3UrYWl.png
 title: Washington Capitals

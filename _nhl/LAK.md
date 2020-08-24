@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Los Angeles Kings fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/hEzgEFkl.png
 title: Los Angeles Kings

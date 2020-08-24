@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: San Jose Sharks fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/Z0voEXcl.png
 title: San Jose Sharks

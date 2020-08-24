@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Toronto Maple Leafs fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/vkR4Ce7l.png
 title: Toronto Maple Leafs

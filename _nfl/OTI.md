@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Tennessee Titans fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/eMHmc7tl.png
 title: Tennessee Titans

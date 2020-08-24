@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Kansas City Chiefs fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/Mvku2TUl.png
 title: Kansas City Chiefs

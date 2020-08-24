@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: New York Knicks fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/hoInJJTl.gif
 title: New York Knicks

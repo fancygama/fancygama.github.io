@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Tampa Bay Buccaneers fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/R7x00F2l.png
 title: Tampa Bay Buccaneers

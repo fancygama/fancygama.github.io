@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Chicago Bears fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/qpoqfDtl.png
 title: Chicago Bears

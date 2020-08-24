@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Philadelphia 76ers fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/V3XqMfSl.png
 title: Philadelphia 76ers

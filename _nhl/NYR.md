@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: New York Rangers fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/pXQOZB7l.png
 title: New York Rangers

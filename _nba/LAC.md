@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Los Angeles Clippers fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/NSgH3tql.png
 title: Los Angeles Clippers

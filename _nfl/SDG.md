@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Los Angeles Chargers fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/IlM77FLl.png
 title: Los Angeles Chargers

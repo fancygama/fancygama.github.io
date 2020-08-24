@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: New England Patriots fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/YSgYy7yl.png
 title: New England Patriots

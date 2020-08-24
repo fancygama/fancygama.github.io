@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: New York Yankees fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/dkzXRELl.png
 title: New York Yankees

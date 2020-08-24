@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Brooklyn Nets fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/vxBuRAWl.png
 title: Brooklyn Nets

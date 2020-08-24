@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Chicago Blackhawks fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/gl7Rfn3l.png
 title: Chicago Blackhawks

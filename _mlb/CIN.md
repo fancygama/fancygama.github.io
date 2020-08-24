@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Cincinnati Reds fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/KdpSau5l.png
 title: Cincinnati Reds

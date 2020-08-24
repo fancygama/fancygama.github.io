@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Washington Football Team fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/KITbyTYl.png
 title: Washington Football Team

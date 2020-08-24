@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Chicago Cubs fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/JMOFlcIl.png
 title: Chicago Cubs

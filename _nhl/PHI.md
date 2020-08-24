@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Philadelphia Flyers fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/SaOgyh7l.png
 title: Philadelphia Flyers

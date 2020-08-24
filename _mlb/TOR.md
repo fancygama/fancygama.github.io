@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Toronto Blue Jays fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/PLe23zzl.png
 title: Toronto Blue Jays

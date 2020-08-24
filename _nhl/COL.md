@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Colorado Avalanche fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/2fldMiHl.png
 title: Colorado Avalanche

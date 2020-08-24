@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Chicago Bulls fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/02kvLMGl.png
 title: Chicago Bulls

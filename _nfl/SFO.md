@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: San Francisco 49ers fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/tGNGkTJl.png
 title: San Francisco 49ers

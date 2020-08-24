@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Carolina Hurricanes fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/3oczEdrl.png
 title: Carolina Hurricanes

@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Carolina Panthers fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/GedO33Pl.png
 title: Carolina Panthers

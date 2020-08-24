@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Tampa Bay Rays fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/KeGghe9l.png
 title: Tampa Bay Rays

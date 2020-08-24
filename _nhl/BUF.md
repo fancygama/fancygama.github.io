@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Buffalo Sabres fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/ss4mOOel.png
 title: Buffalo Sabres

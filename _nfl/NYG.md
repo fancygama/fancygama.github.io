@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: New York Giants fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/U48DuHBl.gif
 title: New York Giants

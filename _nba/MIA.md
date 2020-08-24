@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Miami Heat fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/vZpsYuKl.gif
 title: Miami Heat

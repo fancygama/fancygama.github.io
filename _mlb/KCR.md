@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Kansas City Royals fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/MFYrxcel.png
 title: Kansas City Royals

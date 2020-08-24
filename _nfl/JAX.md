@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Jacksonville Jaguars fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/Re8O2xwl.png
 title: Jacksonville Jaguars

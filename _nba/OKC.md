@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Oklahoma City Thunder fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/97kGfk5l.png
 title: Oklahoma City Thunder

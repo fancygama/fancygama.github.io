@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Oakland Athletics fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/sfDBOlTl.png
 title: Oakland Athletics

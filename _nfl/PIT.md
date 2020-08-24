@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Pittsburgh Steelers fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/dy9YTQGl.png
 title: Pittsburgh Steelers

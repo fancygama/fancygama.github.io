@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Orlando Magic fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/BHxcVKal.gif
 title: Orlando Magic

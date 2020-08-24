@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Toronto Raptors fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/jn1tDgsl.png
 title: Toronto Raptors

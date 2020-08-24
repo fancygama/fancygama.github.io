@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Detroit Pistons fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/BXzFAl1l.png
 title: Detroit Pistons

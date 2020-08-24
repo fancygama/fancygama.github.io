@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Cleveland Cavaliers fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/ffowoDyl.png
 title: Cleveland Cavaliers

@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: San Diego Padres fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/wKi71Yhl.png
 title: San Diego Padres

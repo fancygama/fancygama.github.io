@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: Denver Broncos fan sentiment visualized with deep learning.
 header:
   teaser: https://i.imgur.com/JPtINLWl.png
 title: Denver Broncos
