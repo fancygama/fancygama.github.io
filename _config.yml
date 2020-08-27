@@ -351,3 +351,6 @@ plugins:
 # Optional. The default date format, used if none is specified in the tag.
 last-modified-at:
   date-format: '%-m-%-d-%Y, %-I:%M %p'
+
+head_scripts:
+  - /assets/js/tag_manager_script.js
